@@ -1,1 +1,1 @@
-console.log("This is new file.");
+console.log("Now it creates conflict");
